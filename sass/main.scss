@@ -66,6 +66,13 @@ header{
 		text-transform: uppercase;
 	}
 
+	.logo{
+		width: 60px;
+    	height: 60px;
+    	position: center;
+	}
+
+
 	.avatar-container{
 		width: 60px;
 		height: 60px;
@@ -157,7 +164,7 @@ header{
 			.product-image{
 				img{
 					width: 100%;
-					height: 140px;
+					height: 200px;
 					object-fit: cover;
 					object-position: center;
 				}
